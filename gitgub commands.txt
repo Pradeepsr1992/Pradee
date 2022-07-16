@@ -1,0 +1,44 @@
+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
+
+git clone <remote repository url>
+git clone will  help you to clone/download the remote repository
+
+git push 
+
+git push will help you to push the changes from local repo to remote repo
+
+git pull
+
+git pull will help you to pull the changes from remote repo to lcal repo
+
+........................................
+
+Linux commands :
+
+cat - cat will help you to display the file content
+cat <file name>
+
+ls - It will list the file and directories
+
+cd - change the directory
+cd <directory name>
+
+mkdir - To create a directory
+mkdir <directory name>
+
+touch - touch will help you to create a file
+touch <file name>
+
+chmod - give the permission to file and directory
+chmod 777 <file or directory name>
+
+ls -la - It will list the hidden directories and files
+
+...................................................................
+
+Create a new repository :
+
+What is public repo?
+What is private repo?
+how to create github pat (personal access token)
+
